@@ -31,5 +31,5 @@ class TestCalculoNumeros(unittest.TestCase):
         with self.assertRaises(ValueError):
             ingrese_numero()
 
-if __name__ == '__main__':
-    unittest.main() 
+if __name__ == "__main__":
+    unittest.main()
